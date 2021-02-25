@@ -24,9 +24,11 @@ y = body.scrollTop;
 if (y >= 700) {
     document.getElementById("btn-top").style.visibility= "visible";
     document.getElementById("btn-down").style.visibility= "visible";
+    document.getElementById("faleConosco").style.visibility= "visible";
 } else {
     document.getElementById("btn-top").style.visibility= "hidden";
     document.getElementById("btn-down").style.visibility= "hidden";
+    document.getElementById("faleConosco").style.visibility= "hidden";
 }
 }
 
@@ -34,4 +36,21 @@ function scrollDown() {
     body = document.documentElement;
     body.scrollTop += 500;
 
+}
+
+function ativaWpp() {
+    document.getElementById("wpp").src="whatsappv.svg";
+}
+
+function desativaWpp() {
+    document.getElementById("wpp").src="whatsapp.svg";
+}
+
+
+function ativaFaleConosco() {
+    document.getElementById("faleConosco").src="whatsappv.svg";
+}
+
+function desativaFaleConosco() {
+    document.getElementById("faleConosco").src="whatsapp.svg";
 }
