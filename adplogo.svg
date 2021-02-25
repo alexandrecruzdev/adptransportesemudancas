@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="100"
+   viewBox="0 0 52.916665 26.458334"
+   version="1.1"
+   id="svg853"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="adplogo.svg">
+  <defs
+     id="defs847">
+    <rect
+       x="17.386906"
+       y="49.892857"
+       width="173.1131"
+       height="158.75"
+       id="rect1430" />
+    <rect
+       x="21.166668"
+       y="82.398811"
+       width="155.7262"
+       height="28.726191"
+       id="rect1418" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="42.773707"
+     inkscape:cy="96.790343"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1350"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1463"
+       transform="matrix(0.20595689,0,0,0.21195024,3.1980754,-18.245443)"
+       style="fill:#ffffff">
+      <text
+         xml:space="preserve"
+         id="text1428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1430);fill:#ffffff;"
+         transform="matrix(1.8184125,0,0,1.8184125,-31.791636,39.084849)"><tspan
+           x="17.386719"
+           y="67.371654"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">ADP
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583;fill:#ffffff"
+         x="84.306084"
+         y="141.57878"
+         id="text1438"><tspan
+           sodipodi:role="line"
+           x="84.306084"
+           y="141.57878"
+           style="fill:#ffffff;stroke-width:0.264583"
+           id="tspan1442">TRANSPORTES</tspan><tspan
+           sodipodi:role="line"
+           x="84.306084"
+           y="166.27328"
+           style="stroke-width:0.264583;fill:#ffffff"
+           id="tspan1448"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
+   id="tspan1450">&amp;</tspan> <tspan
+   style="fill:#ffffff"
+   id="tspan1454">MUDANÇAS</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="166.30952"
+       y="96.005951"
+       id="text1424"><tspan
+         sodipodi:role="line"
+         x="166.30952"
+         y="96.005951"
+         style="stroke-width:0.264583"
+         id="tspan1426" /></text>
+  </g>
+</svg>
