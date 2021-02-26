@@ -225,21 +225,22 @@ a {
 
 .completo {
     float: left;
-    
     width:60%;
 }
 
 .economico {
     float:left;
-    
     width:60%;
 
 }
 
-.embalagem {
-    
+.embalagem{
+    float:left;
     width:60%;
+
 }
+
+
 
 label {
     color:white;
@@ -287,4 +288,12 @@ color:#01e675;
     right: 30px;
     top:45%;
     visibility: hidden;
+}
+
+.servicos li {
+    padding: 10px;
+}
+
+.economico li {
+    padding: 10px;
 }
