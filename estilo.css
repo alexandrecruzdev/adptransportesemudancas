@@ -222,6 +222,7 @@ a {
     background-color:rgb(153, 10, 10);
     padding:5%;
     margin: auto;
+    border-radius: 8px;
 
 }
 
@@ -255,6 +256,7 @@ input[type=submit] {
     background-color: white;
     border:none;
     height:30px;
+    border-radius:4px;
 }
 
 input[type=submit]:hover {
@@ -262,6 +264,7 @@ input[type=submit]:hover {
     background-color:rgb(153, 10, 10);
     border:none;
     color:white;
+    border-radius:4px;
 }
 textarea {
 width:80%;
