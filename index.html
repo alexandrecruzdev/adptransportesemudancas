@@ -9,9 +9,8 @@
     
     <title>ADP Transportes & Mudanças</title>
 </head>
-<body onload="slide()" onscroll="deslizaPensou()">
-<div class="faleConosco"><a  href="https://api.whatsapp.com/send?phone=5521974455527"><img src="whatsapp.svg" id="faleConosco" alt="whatsapp" width="40px" height="40px" onmouseover="ativaFaleConosco()" onmouseout="desativaFaleConosco()"></div></a>
-  <div class="btn-top" id="btn-top"><a href="#"><img src="btn-top.svg" alt=""></a></div>
+<body onload="slide(),deslizaPensou()">
+    <div class="btn-top" id="btn-top"><a href="#"><img src="btn-top.svg" alt=""></a></div>
   <div class="btn-down" id="btn-down"><img src="btn-down.svg" alt="btn-down" onclick="scrollDown()"></div>
         <div class="header">
         <ul class="menu" id="menu">    
@@ -23,12 +22,11 @@
         <a href="#servicos"><li>Serviços</li></a>
         <a href="#empresa"><li>Empresa</li></a>
         <a href="#contato"><li>Contato</li></a>
-        <li><a href="https://api.whatsapp.com/send?phone=5521974455527" class="wpp"  onmouseover="ativaWpp()" onmouseout="desativaWpp()">Fale conosco agora mesmo <img src="whatsapp.svg" id="wpp"alt="whatsapp" width="30px" height="30px"></a></li>
-  
         </div>
         </ul>
       </div>
       <br>
+      <div class="pensou"><h1 id="txt-pensou" class="txt-pensou">PENSOU EM MUDANÇA?<br>PENSOU ADP<br>TRANSPORTES & MUDANÇAS!</h1></div>
         <Center>
         <div class="slideShow" id="slideShow">
           <div style="color:white;"><img src="adp.svg" width="80%"  height="100%" alt="adp-trannsporte"></div>
@@ -51,7 +49,20 @@
       
    
     <div id="servicos">
-    <div class="pensou"><h1 id="txt-pensou" class="txt-pensou">PENSOU EM MUDANÇA?<br>PENSOU ADP<br>TRANSPORTES & MUDANÇAS!</h1></div>
+    <div class="anuncio-wpp">
+      <a href="https://api.whatsapp.com/send?phone=5521974455527" class="wpp"  onmouseover="ativaWpp()" onmouseout="desativaWpp()">
+        <center>
+          <table>
+            <tr>
+                <td><h1>FALE CONOSCO<BR>AGORA MESMO<BR>VIA WHATSAPP</h1></td>
+                <td><img src="whatsapp.svg" id="wpp"alt="whatsapp" width="50%" height="50%"></td>
+           </tr>
+       
+       
+      </table>
+      </center>
+    </a>
+  </div>
     <div class="mudanças">
      <div class="residencial">
     <img src="btn-top.svg" alt="btn-top" id="btn-serv-top" class="btn-serv-top" onclick="escondeservicos()">
@@ -191,18 +202,15 @@
           nossa empresa dispõe de profissionais gabaritados para embalar itens mais refinados e valiosos.
           Dispomos de todo material e ferramental necessário para atender a esta demanda peculiar.
           </h4>
-        <img src="imagens/img17.jpg" alt="embalagem-especial-adp.transportes&mudanças" width="50%">
+        <img src="imagens/img17.jpg" alt="embalagem-especial-adp.transportes&mudanças" width="70%">
 
     </div>
-
+<br><br><br> 
 <div class="contato" id="contato">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br><br><br>
-  <h1 style="color:white;">ENTRE EM CONTATO ATRAVÉS DO FORMULÁRIO ABAIXO PARA FAZER UM ORÇAMENTO.</h1>
-  <div class="form">
+ <div class="form">
+    <label> <div class="anuncio-form">
+      <h2 style="color:white;">ENTRE EM CONTATO <br>ATRAVÉS DO FORMULÁRIO ABAIXO<br>PARA FAZER UM ORÇAMENTO.</h2>
+    </div></label>
     <form action="mailto:alexandrecruzbr1@gmail.com" method="POST" enctype="text/plain">
     <label>Nome:</label><br>
     <input type="text" class="text" name="nome"><br><br>

@@ -46,6 +46,14 @@ function desativaWpp() {
     document.getElementById("wpp").src="whatsapp.svg";
 }
 
+function ativaWpp2() {
+    document.getElementById("wpp2").src="whatsappv.svg";
+}
+
+function desativaWpp2() {
+    document.getElementById("wpp2").src="whatsapp.svg";
+}
+
 
 function ativaFaleConosco() {
     document.getElementById("faleConosco").src="whatsappv.svg";
@@ -107,9 +115,7 @@ function escondeservicos3() {
 
 
 function deslizaPensou() {
-    body = document.documentElement;
-    y = body.scrollTop;
-    if(y >=100) {
+ 
     document.getElementById("txt-pensou").style.left="0";
-    }
+
 }

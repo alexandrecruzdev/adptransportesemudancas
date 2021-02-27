@@ -279,9 +279,20 @@ form {
     border-radius: 8px;
 }
 
+.wpp {
+    
+ 
+    
+    
+}
+
+
+
 .wpp:hover {
 color:#01e675;
 }
+
+
 
 .faleConosco {
     position: fixed;
@@ -429,7 +440,7 @@ color:#01e675;
 }
 
 .txt-pensou {
-    left:10%;
+    left:20%;
     position:relative;
     font-size: 5vw;
     transition: 2s;
@@ -463,3 +474,21 @@ h1 {
     margin: auto;
     width:80%;
 }
+
+.anuncio-form {
+    width:80%;
+   margin: auto;
+    padding:2%;
+}
+
+.anuncio-wpp {
+    width:80%;
+   margin: auto;
+    padding:2%;
+ 
+}
+
+.anuncio-wpp h1 {
+    font-size: 4vw;
+}
+
