@@ -1,0 +1,53 @@
+<div class="servicos" id="servicos">
+        <h1>Serviços</h1>
+        <div class="completo">
+          <h2>Completo</h2>
+          <p>
+            Nossa empresa faz absolutamente tudo, oferece o serviço de A a Z. Veja como ficam as etapas do processo:</p>
+            
+            <li>Desmontagem dos móveis (quando aplicável)</li>
+            <li>Embalagem</li>
+            <li>Inventário</li>
+            <li>Carregamento do caminhão</li>
+            <li>Transporte até o destino final</li>
+            <li>Descarregamento</li>
+            <li>Desembalagem</li>
+            <li>Montagem dos móveis (exceto novos)</li>
+            <li> Retirada do resíduo no mesmo dia da entrega</li>
+                    
+           
+        </div>
+        <div class="economico">
+          <h2>Econômico</h2>
+          <p>
+            Muitas das vezes os clientes precisam reduzir custos e a personalização do serviço visa adequá-lo às necessidades deles.<br>
+            Desta forma os clientes podem escolher quais etapas do processo ele mesmo poderá fazer e qual a empresa fará.<br>
+            Veja abaixo como ficam as etapas, destacando apenas as que obrigatoriamentre são feitas por nossa empresa.<br>
+            As demais ficam livres para serem ou não executadas pelo cliente.<br>
+            Cada etapa terá seu adicional:
+          </p>
+          
+          <li>Desmontagem dos móveis (quando aplicável)</li>
+          <li>Embalagem</li>
+          <li>Inventário - (EMPRESA)</li>
+          <li>Carregamento do caminhão</li>
+          <li>Transporte até o destino final - (EMPRESA)</li>
+          <li>Descarregamento</li>
+          <li>Desembalagem</li>
+          <li>Montagem dos móveis (exceto novos)</li>
+          <li>Retirada do resíduo no mesmo dia da entrega</li>
+         
+   
+          
+        </div>
+        <br>
+        <div class="embalagem">
+          
+<h2>EMBALAGEM ESPECIAL</h2>
+<img src="separadas/img17.jpg" alt="embalagem-especial-adp.transportes&mudanças" width="70%">
+<p>Com vasta experiência em embalagem e transporte de obras de arte,
+nossa empresa dispõe de profissionais gabaritados para embalar itens mais refinados e valiosos.
+Dispomos de todo material e ferramental necessário para atender a esta demanda peculiar.
+</p>
+ </div>
+</div>

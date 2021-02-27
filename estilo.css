@@ -5,22 +5,28 @@ html {
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(36, 36, 122);
+    padding:0;
 
     
 }
 
+
+
 header {
     max-height:100%;
+
+    margin:auto;
 }
 
 .menu {
    background-color:rgb(36, 36, 122);
-    margin:0;
+    margin:auto;
     color:white;
-    width: 100%;
+    width: 80%;
     border-radius: 4px;
     padding:10px;
     height: 100%;
+    
     }
 
 
@@ -149,21 +155,28 @@ a {
 }
 
 .slideShow {
-   
-    width: 80%;
-    height:50%;
+   height:420px;
+    width:80%;
     display: flex;
     scroll-behavior: smooth;
     display: flex;
     flex-direction: row;
     overflow: hidden;
     border-radius: 8px;
+    margin-left:0px;
+   
 
 }
 
+.slideShow div img {
+    min-height:310px;
+    min-width:40%;
+    max-width:500px;
+    max-height: 100%;
+}
 .slideShow div {
     width: 80%;
-    height:50%;
+    height:100%;
     flex-grow: 0;
     flex-shrink: 0;
     flex-basis:100%;
@@ -171,6 +184,9 @@ a {
     justify-content: center;
     align-items: center;
     border-radius: 8px;
+    
+    
+    
     
 }
 
@@ -189,15 +205,23 @@ a {
     right: 0px;
 }
 
+
+.redonda {
+    border-radius:1%;
+   
+}
 .footer {
     
     background-color: black;
     color:white;
-    width: 100%;
-    height:300px;
+    width: 80%;
+    height:50%;
     display: flex;
     justify-content: center;
-    background-color:rgb(36, 36, 122);
+    align-items: center;
+    background-color:rgb(153, 10, 10);
+    padding:5%;
+    margin: auto;
 
 }
 
@@ -215,59 +239,32 @@ a {
     color:white
 }
 
-.servicos {
-    margin:10%;
-    color:white;
-    height:auto;
-    background-color: rgb(36, 36, 122);
-    overflow: hidden;
-}
-
-.completo {
-    float: left;
-    width:60%;
-}
-
-.economico {
-    float:left;
-    width:60%;
-
-}
-
-.embalagem{
-    float:left;
-    width:60%;
-
-}
-
-
-
 label {
     color:white;
 }
 
 input[type=text],[type=email],[type=number] {
-    width:300px;
-    height:20px;
+    width:80%;
+    height:30px;
     border-radius: 4px;
     border:none;
 }
 
 input[type=submit] {
-    width:100px;
+    width:40%;
     background-color: white;
     border:none;
-    height:20px;
+    height:30px;
 }
 
 input[type=submit]:hover {
-    width:100px;
-    background-color: gray;
+    width:40%;
+    background-color:rgb(153, 10, 10);
     border:none;
     color:white;
 }
 textarea {
-width:300px;
+width:80%;
 height:70px;
 }
 
@@ -296,4 +293,168 @@ color:#01e675;
 
 .economico li {
     padding: 10px;
+}
+
+.mudanças {
+    width:70%;
+    height:30%;
+    margin:auto;
+    
+    
+}
+
+.mudanças div {
+    
+    background-color: rgb(153, 10, 10);
+    padding:10px;
+    color: white;
+    border-radius: 8px;
+}
+
+.servicos li {
+    list-style: none;
+}
+
+.servicos-in li {
+    padding:1%;
+}
+
+.servicos-in2 li {
+    padding:1%;
+}
+
+.servicos-in3 li {
+    padding:1%;
+}
+
+.btn-down-services {
+    position: absolute;
+    right:15%;
+    width:1%;
+    height: 1%;
+}
+
+.btn-top-services {
+    position: absolute;
+    right:15%;
+    display: none;
+}
+
+.servicos-in {
+    display: none;
+  
+}
+
+.btn-serv-down {
+   
+    right:18%;
+    position:absolute;
+}
+.btn-serv-top {
+   display:none;
+    right:18%;
+    position:absolute;
+}
+
+
+
+.btn-down-services2 {
+    position: absolute;
+    right:15%;
+    width:1%;
+    height: 1%;
+}
+
+.btn-top-services2 {
+    position: absolute;
+    right:15%;
+    display: none;
+}
+
+.servicos-in2 {
+    display: none;
+}
+
+.btn-serv-down2 {
+   
+    right:18%;
+    position:absolute;
+}
+.btn-serv-top2 {
+   display:none;
+    right:18%;
+    position:absolute;
+}
+
+
+.btn-down-services3 {
+    position: absolute;
+    right:15%;
+    width:1%;
+    height: 1%;
+}
+
+.btn-top-services3 {
+    position: absolute;
+    right:15%;
+    display: none;
+}
+
+.servicos-in3 {
+    display: none;
+}
+
+.btn-serv-down3 {
+   
+    right:18%;
+    position:absolute;
+}
+.btn-serv-top3 {
+   display:none;
+    right:18%;
+    position:absolute;
+}
+
+
+
+
+.pensou {
+    width: 80%;
+    padding:20px;
+    color:white;
+    margin: auto;
+}
+
+.txt-pensou {
+    left:10%;
+    position:relative;
+    font-size: 5vw;
+    transition: 2s;
+}
+
+h1 {
+    font-size: 3vw;
+}
+
+#res {
+    position: fixed;
+}
+
+.contato {
+    width:80%;
+    margin: auto;
+}
+
+.embalagem {
+    width: 80%;
+    margin: auto;
+    
+}
+
+.embalagem h1 {
+    font-size: 5vw;
+}
+
+.contato h1 {
+    font-size:4vw;
 }

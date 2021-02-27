@@ -12,7 +12,7 @@ function closeMenu() {
 function slide() { 
     setInterval( function passaImg() {
     elemnt = document.getElementById("slideShow");
-    elemnt.scrollLeft += elemnt.scrollWidth/8;
+    elemnt.scrollLeft += elemnt.scrollWidth/14;
 }, 5000)}
 
 
@@ -21,7 +21,7 @@ body = document.documentElement;
 y = body.scrollTop;
 
 
-if (y >= 700) {
+if (y >= 1200) {
     document.getElementById("btn-top").style.visibility= "visible";
     document.getElementById("btn-down").style.visibility= "visible";
     document.getElementById("faleConosco").style.visibility= "visible";
@@ -53,4 +53,63 @@ function ativaFaleConosco() {
 
 function desativaFaleConosco() {
     document.getElementById("faleConosco").src="whatsapp.svg";
+}
+
+
+function mostraservicos() {
+
+    document.getElementById("servicos-in1").style.display="block";
+    document.getElementById("btn-serv-down").style.display="none";
+   document.getElementById("btn-serv-top").style.display="block";
+    
+}
+
+function escondeservicos() {
+
+    document.getElementById("servicos-in1").style.display="none";
+    document.getElementById("btn-serv-down").style.display="block";
+   document.getElementById("btn-serv-top").style.display="none";
+    
+}
+
+function mostraservicos2() {
+
+    document.getElementById("servicos-in2").style.display="block";
+    document.getElementById("btn-serv-down2").style.display="none";
+   document.getElementById("btn-serv-top2").style.display="block";
+    
+}
+
+function escondeservicos2() {
+
+    document.getElementById("servicos-in2").style.display="none";
+    document.getElementById("btn-serv-down2").style.display="block";
+   document.getElementById("btn-serv-top2").style.display="none";
+    
+}
+
+function mostraservicos3() {
+
+    document.getElementById("servicos-in3").style.display="block";
+    document.getElementById("btn-serv-down3").style.display="none";
+   document.getElementById("btn-serv-top3").style.display="block";
+    
+}
+
+function escondeservicos3() {
+
+    document.getElementById("servicos-in3").style.display="none";
+    document.getElementById("btn-serv-down3").style.display="block";
+   document.getElementById("btn-serv-top3").style.display="none";
+    
+}
+
+
+
+function deslizaPensou() {
+    body = document.documentElement;
+    y = body.scrollTop;
+    if(y >=100) {
+    document.getElementById("txt-pensou").style.left="0";
+    }
 }

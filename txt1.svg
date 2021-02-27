@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="211.63957mm"
+   height="64.3311mm"
+   viewBox="0 0 211.63957 64.3311"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="txt1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2">
+    <rect
+       x="6.8035712"
+       y="24.946428"
+       width="228.29762"
+       height="119.44048"
+       id="rect236" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="351.66773"
+     inkscape:cy="26.80915"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1350"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.8197865,-116.33445)">
+    <text
+       xml:space="preserve"
+       id="text234"
+       style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect236);fill:#ffffff;"
+       transform="matrix(0.72056307,0,0,0.72056307,20.518954,105.31699)"><tspan
+         x="6.8027344"
+         y="42.426341"><tspan
+           style="shape-inside:url(#rect236);fill:#ffffff">FAÇA SUA
+</tspan></tspan><tspan
+         x="6.8027344"
+         y="67.120841"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">MUDANÇA</tspan><tspan
+           style="shape-inside:url(#rect236);fill:#ffffff">
+</tspan></tspan><tspan
+         x="6.8027344"
+         y="91.815341"><tspan
+           style="shape-inside:url(#rect236);fill:#ffffff">SEM SE </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">PREOCUPAR!</tspan></tspan></text>
+  </g>
+</svg>
