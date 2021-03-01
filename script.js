@@ -13,7 +13,7 @@ function slide() {
     setInterval( function passaImg() {
     elemnt = document.getElementById("slideShow");
     elemnt.scrollLeft += elemnt.scrollWidth/14;
-}, 5000)}
+}, 3000)}
 
 
 function myFunction() {
