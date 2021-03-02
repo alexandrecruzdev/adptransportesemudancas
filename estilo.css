@@ -442,7 +442,7 @@ color:#01e675;
 .txt-pensou {
     left:20%;
     position:relative;
-    font-size:4vw;
+    font-size:5vw;
     transition: 2s;
 }
 
@@ -511,4 +511,20 @@ h1 {
 .footer p {
     margin: 4%;
     font-size:100%;
+}
+
+.rec {
+    width: 70%;
+    margin: auto;
+    color:white;
+    padding:0px 30%;
+
+}
+
+.rec h3 {
+    width:60%;
+}
+
+.rec img {
+    max-width:300px;
 }
